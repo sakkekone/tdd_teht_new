@@ -1,4 +1,5 @@
-﻿namespace CollectionLinqAssignment
+﻿//
+namespace CollectionLinqAssignment
 {
     internal class Program
     {
